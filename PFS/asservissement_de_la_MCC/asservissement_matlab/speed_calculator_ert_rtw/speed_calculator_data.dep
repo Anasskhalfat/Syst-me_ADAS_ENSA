@@ -1,0 +1,56 @@
+speed_calculator_data.o: \
+ C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/speed_calculator_data.c \
+ C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/speed_calculator.h \
+ C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_continuous.h \
+ C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_continuous.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/shared/svd/include/MW_PWM.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/shared/svd/include/MW_SVD.h \
+ C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/speed_calculator_types.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/shared/svd/include/MW_SVD.h \
+ C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/SUPPOR~1/ARDUIN~1/include/MW_ArduinoHWInit.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h \
+ C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/speed_calculator_private.h
+
+C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/speed_calculator.h:
+
+C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_continuous.h:
+
+C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/POLYSP~1/R2021a/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/shared/svd/include/MW_PWM.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/shared/svd/include/MW_SVD.h:
+
+C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/speed_calculator_types.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/shared/svd/include/MW_SVD.h:
+
+C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/SUPPOR~1/ARDUIN~1/include/MW_ArduinoHWInit.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2021a/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h:
+
+C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/speed_calculator_private.h:

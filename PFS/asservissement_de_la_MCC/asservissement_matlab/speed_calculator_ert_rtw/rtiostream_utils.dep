@@ -1,0 +1,11 @@
+rtiostream_utils.o: \
+ C:/PROGRA~1/POLYSP~1/R2021a/toolbox/coder/rtiostream/src/utils/rtiostream_utils.c \
+ C:/PROGRA~1/POLYSP~1/R2021a/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/POLYSP~1/R2021a/toolbox/coder/rtiostream/src/rtiostream.h
+
+C:/PROGRA~1/POLYSP~1/R2021a/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+C:/Users/DELL/Documents/arduino_simulink/pfs_0604/speed_calculator_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/POLYSP~1/R2021a/toolbox/coder/rtiostream/src/rtiostream.h:
